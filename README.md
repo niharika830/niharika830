@@ -28,7 +28,7 @@
 <a href="mailto:niharikaaggarwal7@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="./Niharika_Aggarwal_Resume.pdf">
+<a href="./Niharika_Aggarwal_AI_GenAI_Engineer_CV.pdf">
   <img src="https://img.shields.io/badge/Resume-View%20PDF-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
@@ -50,16 +50,6 @@ I build intelligent, scalable systems around:
 
 ---
 
-## 🎞️ AI Engineering Workspace
-
-<div align="center">
-  <img src="./githubgif.gif" width="100%" alt="Animated AI engineering workspace"/>
-</div>
-
-> Add your animated file to the repository with the exact filename `githubgif.gif`.
-
----
-
 ## 👩‍💻 Featured Work
 
 ### 🧠 AI-Powered Slide Retrieval System
@@ -67,7 +57,6 @@ I build intelligent, scalable systems around:
 A scalable slide-ingestion and semantic retrieval platform using Qdrant, SQLite, HyDE, vLLM, RabbitMQ, Celery workers and multilingual OCR.
 
 **Highlights:**
-
 - PowerPoint and PDF ingestion
 - Slide rendering, OCR and text extraction
 - Embeddings, reranking and semantic retrieval
@@ -104,12 +93,13 @@ An immersive portfolio with animated states for AI engineering, research, system
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=niharika830&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="Niharika's GitHub statistics"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niharika830&theme=tokyonight&hide_border=true" width="48%" alt="Niharika's GitHub contribution streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=niharika830&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="Niharika's GitHub statistics"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=niharika830&theme=tokyonight&hide_border=true" alt="Niharika's GitHub contribution streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharika830&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Most used languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharika830&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Most used languages"/>
 
 </div>
 
@@ -127,9 +117,9 @@ An immersive portfolio with animated states for AI engineering, research, system
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niharika830/niharika830/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niharika830/niharika830/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/niharika830/niharika830/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niharika830/niharika830/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niharika830/niharika830/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/niharika830/niharika830/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -141,8 +131,12 @@ An immersive portfolio with animated states for AI engineering, research, system
 
 **Build. Research. Evolve. 🚀**
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=niharika830&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="./githubgif.gif" width="100%" alt="Animated AI engineering workspace"/>
 
 </div>
