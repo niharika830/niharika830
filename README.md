@@ -49,14 +49,24 @@ I build intelligent, scalable systems around:
 - System architecture, deployment and observability
 
 ---
-
 ## 👩‍💻 Featured Work
+
+<div align="center">
+  <img
+    src="./githubgif .gif"
+    width="100%"
+    alt="Animated AI engineering workspace"
+  />
+</div>
+
+<br/>
 
 ### 🧠 AI-Powered Slide Retrieval System
 
 A scalable slide-ingestion and semantic retrieval platform using Qdrant, SQLite, HyDE, vLLM, RabbitMQ, Celery workers and multilingual OCR.
 
 **Highlights:**
+
 - PowerPoint and PDF ingestion
 - Slide rendering, OCR and text extraction
 - Embeddings, reranking and semantic retrieval
@@ -75,8 +85,6 @@ An immersive portfolio with animated states for AI engineering, research, system
 🔗 [Open the portfolio](https://niharika-3-d-portfolio.vercel.app/)  
 🔗 [View the repository](https://github.com/niharika830/niharika-3-d-portfolio)
 
----
-
 ## 🛠️ Languages and Tools
 
 <p align="center">
@@ -86,22 +94,6 @@ An immersive portfolio with animated states for AI engineering, research, system
 <p align="center">
   LangChain · LangGraph · LlamaIndex · Haystack · Hugging Face · BAML · Ollama · vLLM · Qdrant · Chroma · Neo4j · Celery · OCR · RAGAS
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=niharika830&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="Niharika's GitHub statistics"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=niharika830&theme=tokyonight&hide_border=true" alt="Niharika's GitHub contribution streak"/>
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharika830&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Most used languages"/>
-
-</div>
 
 ---
 
@@ -129,14 +121,44 @@ An immersive portfolio with animated states for AI engineering, research, system
 
 <div align="center">
 
+<img
+  src="./lets-connect.gif"
+  width="100%"
+  alt="Animated girl working with coffee and laptop"
+/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/niharika8399/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:niharikaaggarwal7@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://niharika-3-d-portfolio.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+<br/><br/>
+
 **Build. Research. Evolve. 🚀**
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=niharika830&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
-
-<br/><br/>
-
-<img src="./githubgif.gif" width="100%" alt="Animated AI engineering workspace"/>
+<img
+  src="https://komarev.com/ghpvc/?username=niharika830&label=Profile%20Views&color=8B5CF6&style=for-the-badge"
+  alt="Profile views"
+/>
 
 </div>
